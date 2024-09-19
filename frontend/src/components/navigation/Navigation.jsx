@@ -42,7 +42,7 @@ const Navigation = () => {
           <span className={classes.logo}>
             <i className="bi bi-search"></i>
           </span>
-          JobSpot
+          JobHunt
         </NavLink>
         <Navbar.Toggle aria-controls="navbar-dark-example" />
         <Navbar.Collapse id="navbar-dark-example">

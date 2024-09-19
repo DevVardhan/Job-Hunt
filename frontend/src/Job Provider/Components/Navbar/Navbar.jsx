@@ -15,7 +15,7 @@ const Navbar1 = () => {
           className={classes.brand}
           to="/"
         >
-          JobSpot
+          JobHunt
         </NavLink>
         <Navbar.Toggle aria-controls="navbar-dark-example" />
         <Navbar.Collapse id="navbar-dark-example">
