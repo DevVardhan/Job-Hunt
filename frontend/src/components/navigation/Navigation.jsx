@@ -34,11 +34,7 @@ const Navigation = () => {
           Job Hunt
         </Navbar.Brand> */}
 
-        <NavLink
-          // activeClassName={classes.active}
-          className={classes.brand}
-          to="/dashboard"
-        >
+        <NavLink className={classes.brand} to="/dashboard">
           <span className={classes.logo}>
             <i className="bi bi-search"></i>
           </span>
